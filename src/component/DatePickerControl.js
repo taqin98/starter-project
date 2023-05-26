@@ -9,3 +9,5 @@ const DatePickerControl = () => {
         </View>
     );
 }
+
+export default DatePickerControl;
